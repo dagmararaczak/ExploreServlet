@@ -33,4 +33,5 @@ public class UserRepository {
     public Collection<User> getUsers() {
         return usersMap.values();
     }
+
 }
